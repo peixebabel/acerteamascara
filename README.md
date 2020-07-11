@@ -1,4 +1,4 @@
-# acerteamascara
+# Acerte o rosto na máscara
 Um joguinho em Unity para colocar Máscara no Átila. Tentei deixar o jogo com um pouco de acessibilidade, sendo possível jogá-lo utilizando não só as imagens, mas também o som.
 
 Em imgs estão as sprites utilizadas no jogo: 
